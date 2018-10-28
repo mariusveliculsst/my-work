@@ -1,10 +1,11 @@
 Places
 
-work
-home
-mall
-museum
-park
-university
-super market
+Work
+Home
+Mall
+Museum
+Park
+University
+Pub
+Super market
 Some places were I go.
