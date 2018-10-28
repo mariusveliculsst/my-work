@@ -1,4 +1,4 @@
-Places
+Places and Town
 
 Work
 Home
@@ -7,5 +7,7 @@ Museum
 Park
 University
 Pub
+Town
 Super market
 Some places were I go.
+And Town.
