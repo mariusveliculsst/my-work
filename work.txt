@@ -3,6 +3,7 @@ Places
 work
 home
 mall
+museum
 park
 university
 super market
