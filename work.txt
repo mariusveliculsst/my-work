@@ -1,0 +1,9 @@
+Places
+
+work
+home
+mall
+park
+university
+super market
+Some places were I go.
